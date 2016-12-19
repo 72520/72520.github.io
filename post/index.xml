@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bowen Site</title>
-    <link>http://72520.github.io/index.xml</link>
-    <description>Recent content on bowen Site</description>
+    <title>Posts on bowen Site</title>
+    <link>http://72520.github.io/post/index.xml</link>
+    <description>Recent content in Posts on bowen Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 19 Dec 2016 11:47:47 +0800</lastBuildDate>
-    <atom:link href="http://72520.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://72520.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
@@ -21,21 +21,6 @@
 &lt;li&gt;fjiqjfowqf&lt;/li&gt;
 &lt;li&gt;dkfjklflj&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://72520.github.io/about/</link>
-      <pubDate>Mon, 19 Dec 2016 11:46:16 +0800</pubDate>
-      
-      <guid>http://72520.github.io/about/</guid>
-      <description>
-
-&lt;h3 id=&#34;test&#34;&gt;TEST&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new site /path/to/site
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
