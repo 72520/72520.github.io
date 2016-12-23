@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on bowen Site</title>
+    <link>http://72520.github.io/blog/index.xml</link>
+    <description>Recent content in Blogs on bowen Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 22 Dec 2016 22:55:48 +0800</lastBuildDate>
+    <atom:link href="http://72520.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://72520.github.io/blog/ffff/</link>
+      <pubDate>Thu, 22 Dec 2016 22:55:48 +0800</pubDate>
+      
+      <guid>http://72520.github.io/blog/ffff/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;客户端短时间多次点击签到（==每次事件请求唯一id都不一样==），签到事件会被执行多次&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>last</title>
+      <link>http://72520.github.io/blog/last/</link>
+      <pubDate>Thu, 22 Dec 2016 22:54:57 +0800</pubDate>
+      
+      <guid>http://72520.github.io/blog/last/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://72520.github.io/blog/first/</link>
+      <pubDate>Thu, 22 Dec 2016 22:51:18 +0800</pubDate>
+      
+      <guid>http://72520.github.io/blog/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
